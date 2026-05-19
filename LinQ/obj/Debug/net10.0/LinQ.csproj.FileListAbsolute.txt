@@ -1,0 +1,5 @@
+C:\VS\Code\Programacion\NF's\NF2\Exercicis de LINQ\LinQ\obj\Debug\net10.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\Code\Programacion\NF's\NF2\Exercicis de LINQ\LinQ\obj\Debug\net10.0\LinQ.AssemblyInfoInputs.cache
+C:\VS\Code\Programacion\NF's\NF2\Exercicis de LINQ\LinQ\obj\Debug\net10.0\LinQ.AssemblyInfo.cs
+C:\VS\Code\Programacion\NF's\NF2\Exercicis de LINQ\LinQ\obj\Debug\net10.0\LinQ.csproj.CoreCompileInputs.cache
+C:\VS\Code\Programacion\NF's\NF2\Exercicis de LINQ\LinQ\obj\Debug\net10.0\LinQ.sourcelink.json
